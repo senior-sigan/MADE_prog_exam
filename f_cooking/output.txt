@@ -1,0 +1,9 @@
+beef 15
+carrot 9
+celery 6
+flour 2
+milk 10
+nutmeg 1
+onion 10
+red_wine 5
+spaghetti 8

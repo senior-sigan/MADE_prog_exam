@@ -1,0 +1,47 @@
+4
+4 10 0
+ordered a alex 100 3 25
+arrived a 120
+started a 140
+finished a 2240
+8 2 1
+ordered a alice 0 2 15
+arrived a 140
+started a 195
+finished a 1035
+ordered b bob 0 2 10
+arrived b 140
+started b 145
+finished b 823
+13 2 2
+started b1 600
+finished a 55
+ordered b1 biba 100 7 44
+arrived b1 580
+finished b1 3300
+ordered k kuka 200 3 15
+arrived k 450
+started k 462
+ordered b2 biba 9500 2 48
+arrived b2 9580
+finished k 1820
+started b2 9642
+finished b2 12730
+17 3 2
+started b1 600
+finished a 55
+ordered b1 biba 100 7 44
+arrived b1 580
+finished b1 3300
+ordered k kuka 200 3 15
+arrived k 450
+started k 462
+ordered b2 biba 9500 2 48
+arrived b2 9580
+finished k 1820
+started b2 9642
+finished b2 12730
+ordered k2 kaka 200 3 15
+arrived k2 450
+started k2 462
+finished k2 1820

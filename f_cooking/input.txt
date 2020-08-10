@@ -1,0 +1,24 @@
+1
+2 4 3
+lasagne 1
+bolognese_pasta 2
+lasagne 2
+bechamel 1
+bolognese 3
+bolognese_pasta 2
+spaghetti 4
+bolognese 1
+bechamel 4
+milk 10
+flour 2
+butter 2
+nutmeg 1
+bolognese 5
+beef 3
+red_wine 1
+carrot 2
+onion 2
+celery 2
+celery 4
+carrot 1
+butter 2
